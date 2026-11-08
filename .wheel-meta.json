@@ -1,0 +1,22 @@
+{
+  "wheel_id": 816,
+  "structure": "umbrella",
+  "slug": "retainingwallcontractors-114",
+  "project": "retaining-wall-contractors-quotes-explained-458b8702c419a48ddc6",
+  "parent_t1_ref": "retainingwallcontractors-156",
+  "node_role": "feeder",
+  "money_target": "retainingwallcontractors.com.au",
+  "primary_kw": "retaining wall contractors quotes explained",
+  "intended_url": "https://sitesau.github.io/retainingwallcontractors-114/",
+  "tier": "T2",
+  "writeback_nonce": "35cff4365beb3fc5",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-contractors-myths-9e951d80f81ba6a8e7fa3100c79644/",
+      "anchor": "retaining wall contractors myths",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
